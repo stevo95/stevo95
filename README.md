@@ -29,8 +29,6 @@ When I`m not coding, I like to play chess, do sports, travel or simply lose trac
 I like to use <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> to keep my code tidy :-).
 
 
-https://github-readme-stats.vercel.app/api?username={stevo95}
-
 ## What am I up to these days? 🔭:
 
 Always trying to improve my JS Front-end & Back-end frameworks skillset. Working as a Back-end developer at CloudTalk whie working on my solo projects in my free time.
