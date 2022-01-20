@@ -21,7 +21,7 @@ When I`m not coding, I like to play chess, do sports, travel or simply lose trac
 
 ## What am I up to these days? 🔭:
 
-Working on getting better at python and Django framework. Always trying to improve my JS Front-end & Back-end frameworks skillset.
+Always trying to improve my JS Front-end & Back-end frameworks skillset. Working as a Back-end developer at CloudTalk whie working on my solo projects in my free time.
 
 ## Where can you reach me? 📫:
 <a href="https://www.linkedin.com/in/stefansarmir/"> 
