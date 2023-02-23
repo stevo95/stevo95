@@ -25,14 +25,6 @@ When I`m not coding, I like to play chess, do sports, travel or simply lose trac
 ### Back-end:
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-### Other information:
-I like to use <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" /> to keep my code tidy :-).
-
-
-## What am I up to these days? 🔭:
-
-Always trying to improve my JS Front-end & Back-end frameworks skillset. Working as a Back-end developer at CloudTalk whie working on my solo projects in my free time.
-
 ## Where can you reach me? 📫:
 <a href="https://www.linkedin.com/in/stefansarmir/"> 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
