@@ -1,4 +1,4 @@
-# Hi there! My name is Stefan 👋
+# Hello, my name is Stefan
 
 Motivated Full-Stack developer with passion for tech, currently based in Bratislava, Slovakia. I`m always looking to challenge my self, love discovering new technologies but also learning interesting stuff in general.
 
